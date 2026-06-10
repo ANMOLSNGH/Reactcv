@@ -25,7 +25,7 @@
 87C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\workers\src\cpuCount.js134254119418973479 0
 87C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\caniuse-lite\data\regions\AX.js134254119426890094 0
 73C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\dotenv-expand\lib134254119413973037 1
-47C:\Users\ANMOL RANA\Downloads\reactproject\dist134255685019138483 1
+47C:\Users\ANMOL RANA\Downloads\reactproject\dist134255689694252619 1
 85C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\regenerator-runtime\README.md134254119407093027 0
 107C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js134254119433663211 0
 109C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json134254119450479300 0
@@ -48,7 +48,7 @@
 72C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\term-size\vendor134254119407254103 1
 86C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\watcher\src\DirTree.hh134254119422684307 0
 94C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\caniuse-lite\data\features\minmaxwh.js134254119464363685 0
-53C:\Users\ANMOL RANA\Downloads\reactproject\.gitignore134255341567676435 0
+53C:\Users\ANMOL RANA\Downloads\reactproject\.gitignore134255694280823037 0
 98C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\packager-js\lib\CJSOutputFormat.js134254119401956001 0
 80C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\semver\functions\diff.js134254119416791066 0
 93C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\lightningcss-win32-x64-msvc\README.md134254119402604308 0
@@ -82,7 +82,7 @@
 106C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\caniuse-lite\data\features\css-case-insensitive.js134254119436278299 0
 113C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c134254119430678300 0
 97C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\caniuse-lite\data\features\text-stroke.js134254119475812023 0
-60C:\Users\ANMOL RANA\Downloads\reactproject\src\style\app.css134255607423512343 0
+60C:\Users\ANMOL RANA\Downloads\reactproject\src\style\app.css134255689724462211 0
 81C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\scheduler\index.native.js134254118938521259 0
 114C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js134254119462873164 0
 56C:\Users\ANMOL RANA\Downloads\reactproject\src\index.jsx134255676172771012 0
@@ -106,7 +106,7 @@
 60C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\.bin134254119484342874 1
 85C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\ordered-binary\dist\index.cjs134254119401821617 0
 74C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\json5\lib\index.js134254119404731262 0
-59C:\Users\ANMOL RANA\Downloads\reactproject\src\style\CV.css134255607759854341 0
+59C:\Users\ANMOL RANA\Downloads\reactproject\src\style\CV.css134255689693802270 0
 106C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\diagnostic\test\JSONCodeHighlights.test.js134254119407135076 0
 63C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\is-glob134254119403916917 1
 113C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c134254119430177914 0
@@ -3470,7 +3470,7 @@
 104C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\core\test\fixtures\common-targets-ignore134254119442446590 1
 103C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\core\test\fixtures\config-node-pipeline134254119408131228 1
 106C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\core\test\fixtures\config-plugin-not-found134254119414022167 1
-73C:\Users\ANMOL RANA\Downloads\reactproject\dist\reactproject.aa436662.css134255684993798423 0
+73C:\Users\ANMOL RANA\Downloads\reactproject\dist\reactproject.aa436662.css134255689694207503 0
 97C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\core\test\fixtures\custom-targets134254119442775580 1
 118C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\core\test\fixtures\custom-targets-distdir\package.json134254119442750828 0
 105C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\@parcel\core\test\fixtures\custom-targets-distdir134254119442736213 1
@@ -3620,4 +3620,4 @@
 71C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\.bin\semver.ps1134254119484635578 0
 83C:\Users\ANMOL RANA\Downloads\reactproject\node_modules\.bin\update-browserslist-db134254119484655687 0
 58C:\Users\ANMOL RANA\Downloads\reactproject\dist\index.html134255684993607249 0
-77C:\Users\ANMOL RANA\Downloads\reactproject\dist\reactproject.aa436662.css.map134255684993832841 0
+77C:\Users\ANMOL RANA\Downloads\reactproject\dist\reactproject.aa436662.css.map134255689694240593 0
