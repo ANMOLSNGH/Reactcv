@@ -1,7 +1,8 @@
 import { useState } from "react";
-import Generalinfo from '.components/Generalinfo';
-import experience from '.components/experience';
-import education from '.components/education';
+import Generalinfo from './components/generalinfo';
+import Experience from './components/experience';
+import Education from './components/education';
+import './style/CV.css';
 
 function App() {
   const [generalInfo, setGeneralInfo] = useState({
@@ -27,9 +28,9 @@ function App() {
     <div className="app-container">
         <h1>CV Builder</h1>
         <main className="CV-layout ">
-            <GeneralInfo info={generalInfo} setInfo={setGeneralInfo} />
-            <Education info={education} setInfo={setEducation} />
-           <Experience info={experience} setInfo={setExperience} />
+            <Generalinfo info={generalInfo} setinfo={setGeneralInfo} />
+            <Education info={education} setinfo={setEducation} />
+           <Experience info={experience} setinfo={setExperience} />
         </main>
 
     </div>

@@ -1,19 +1,20 @@
 import { useState } from "react";
+import '../style/CV.css';
 
 
 function Generalinfo({info,setinfo}) {
     const [isediting,setIsediting]  = useState(false);
     const handleChange = (e) => {
     const { name, value } = e.target;
-    setInfo({ ...info, [name]: value });
+    setinfo({ ...info, [name]: value });
   };
 
   const toggleEdit = (e) => {
     e.preventDefault();
-    setIsEditing(!isEditing);
+    setIsediting(!isediting);
   };
 
- if (isEditing) {
+ if (isediting) {
     return (
       <form className="section-container" onSubmit={toggleEdit}>
         <h2>General Information</h2>
@@ -24,5 +25,16 @@ function Generalinfo({info,setinfo}) {
       </form>
     );
   }
+
+return (
+    <div className="section-container display-mode">
+      <h2>{info.name}</h2>
+      <p>Email: {info.email}</p>
+      <p>Phone: {info.phone}</p>
+      <button onClick={toggleEdit} className="edit-btn">Edit</button>
+    </div>
+  );
     
 }
+
+export default Generalinfo;
